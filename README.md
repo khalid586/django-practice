@@ -12,6 +12,6 @@ cd projectName
 python manage.py runserver
 ```
 
-You can ise any preferred name instead of `projectName` .
+You can use any preferred name instead of `projectName` .
 
 </details>
