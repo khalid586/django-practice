@@ -15,3 +15,16 @@ python manage.py runserver
 You can use any preferred name instead of `projectName` .
 
 </details>
+
+<details> 
+<summary>How to create a django app</summary>
+
+To install app after creating a project run the following command in the terminal.
+
+```
+python manage.py startapp appName
+```
+
+You can use any preferred name instead of `appName` .
+
+</details>
