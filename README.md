@@ -1,5 +1,10 @@
-1. install django and upgrage it by using `pip install djange --upgrade` [In case of not been done before]
-1. create a project by typing `django-admin startproject projectName`
-1. type `cd projectName`
-1. type `python manage.py runserver`
+To install django and create a django project do the following steps
 
+```
+pip install djange --upgrade
+django-admin startproject projectName
+cd projectName
+python manage.py runserver
+```
+
+You can ise any preferred name instead of `projectName` .
