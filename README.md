@@ -28,3 +28,14 @@ python manage.py startapp appName
 You can use any preferred name instead of `appName` .
 
 </details>
+
+<details> 
+<summary>What to do after making migrations(Ex.models.py or admin.py )</summary>
+
+Run the following commands in the terminal 
+
+```
+python manage.py makemigrations
+python manage.py migrate
+```
+</details>
