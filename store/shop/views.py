@@ -3,5 +3,13 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index(request):
-     #return HttpResponse('hello')
      return render(request,'shop/index.html')
+
+def about(request):
+     return HttpResponse('we are at about')
+
+def contact(request):
+     return HttpResponse('we are at contact')
+
+def checkout(request):
+     return HttpResponse('we are at checkout')
