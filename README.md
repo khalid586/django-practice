@@ -1,5 +1,15 @@
 This project was built for one of our clients, Md. Kazi. We tried to develop this soluion as per client's requirement.
 
+**Our initial homepage looks like this**
+![](assets/intial%20homepage.png)
+
+**Our initial admin panel looks like this**
+![](assets/initial%20admin%20panel.png)
+![](assets/initial%20admin%20panel%202.png)
+
+<br><br>
+
+### You will find some necessary instructions below
 <details> 
 <summary>How to create a django project</summary>
 
@@ -30,7 +40,7 @@ You can use any preferred name instead of `appName` .
 </details>
 
 <details> 
-<summary>What to do after making migrations(Ex.models.py or admin.py )</summary>
+<summary>What to do after making migrations(Ex.models.py or admin.py)</summary>
 
 Run the following commands in the terminal 
 
