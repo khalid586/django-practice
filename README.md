@@ -1,4 +1,4 @@
-This project was built for one of our clients, Md. Kazi. We tried to develop this soluion as per client's requirement.
+Django concepts practiced
 
 **Our initial homepage looks like this**
 ![](assets/intial%20homepage.png)
