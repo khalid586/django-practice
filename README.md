@@ -1,4 +1,6 @@
-Django concepts practiced
+Django concepts practiced. 
+
+You will find some demo and some useful commands bellow.
 
 **Our initial homepage looks like this**
 ![](assets/intial%20homepage.png)
